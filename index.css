@@ -29,32 +29,30 @@
 }
 .image1{
     width: 360px;
-    padding: 0px;
+    padding-right: 150px;
+    padding-top: 50px;
 }
 .banner1{
     display: flex;
     justify-content: space-around;
     align-items: center;
     background-color: rgba(229, 84, 115, 0.10);
-    padding: 5%;
+    padding: 10%
     height: 50vh;
 }
 .des1{
     font-size: 18px;
     margin-top: 15px;
     margin-bottom: 15px;
+    color: rgba(39, 39, 39, 0.60);
 }
 
 .title1{
-    font-size: 50px;
-    font-weight: bold;
+    font-size: 70px;
+    font-weight: bolder;
 
 }
-.des1{
-    font-size: 12px;
-    margin-top: 15px;
-    margin-bottom: 15px;
-}
+
 .button1{
     cursor: pointer;
     padding: 10px 20px;
@@ -64,5 +62,49 @@
     color: white;
 }
 .text1{
+    padding-left: 18%;
+}
+
+/* this is section 2 */
+.image2{
+    width: 250px;
+    height: 300px;
+    padding-right: 0px;
+}
+.banner2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.10);
+    padding: 10%;
+    height: 50vh;
+}
+.des2{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: rgba(39, 39, 39, 0.60);
+}
+
+.title2{
+    font-size: 30px;
+    font-weight: bold;
+    color: #272727;
+
+}
+.off{
+    color: #E55473;
+}
+
+.button1{
+    cursor: pointer;
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #E55473;
+    color: white;
+}
+.text2{
     padding: 15%;
+    text-align: center;
 }
