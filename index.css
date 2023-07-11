@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Calibri';
+}
+/* this is navbar section */
+.menu-container{
+    background-color: rgba(229, 84, 115, 0.10);
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+
+}
+.logo{
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+}
+.menus{
+    display: flex;
+}
+.item{
+   font-size: large;
+   cursor: pointer;
+   padding: 30px;
+}
+.image1{
+    width: 360px;
+    padding: 0px;
+}
+.banner1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.10);
+    padding: 5%;
+    height: 50vh;
+}
+.des1{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.title1{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+.des1{
+    font-size: 12px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.button1{
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #E55473;
+    color: white;
+}
+.text1{
+    padding: 15%;
+}
