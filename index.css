@@ -108,3 +108,31 @@
     padding: 15%;
     text-align: center;
 }
+/* this is section 3 */
+.banner3{
+    text-align: center;
+    padding-top: 10%;
+}
+.title3{
+    font-size: 30px;
+    font-weight: bold;
+    color: #272727;
+}
+.des3{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: rgba(39, 39, 39, 0.60);
+    padding: 10px;
+}
+.instagram{
+    display: flex;
+    justify-content: space-around;
+  
+}
+.ins{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 250px;
+    height: 300px;
+}
