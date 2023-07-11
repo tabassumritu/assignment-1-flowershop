@@ -129,6 +129,7 @@
 .instagram{
     display: flex;
     justify-content: space-around;
+    padding-bottom: 100px;
   
 }
 .ins{
@@ -138,3 +139,46 @@
     height: 300px;
 }
 /* this is section 4 */
+.title4{
+    font-size: 30px;
+    font-weight: bold;
+    color: #272727;
+    padding-top: 50px;
+}
+.des4{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: rgba(39, 39, 39, 0.60);
+    padding: 10px;
+}
+.email{
+    display: flex;
+    align-items: center;
+    padding-left: 20%;
+    border-color: #FFF;
+    border-radius: 8px;
+}
+.banner4{
+    text-align: center;
+    padding-top: 25px;
+    background-image: url('./Flower\ Asset/Rectangle 9.png');
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.form{
+    padding-right: 20px;
+}
+.button2{
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #E55473;
+    color: white;
+    height: 64px;
+    width: 150px;
+}
+    
